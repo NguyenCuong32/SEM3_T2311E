@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongodb_01", "mongodb_01\mo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mongodb_01_py", "mongodb_01_py", "{B1B4DE45-A520-4EA6-BDA9-CBEB373620FE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app_01", "app_01", "{EF4AF9DE-AD5D-45B9-B156-5B5B5110DA5E}"
+	ProjectSection(SolutionItems) = preProject
+		app.py = app.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
